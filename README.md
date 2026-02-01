@@ -1,19 +1,3 @@
-Perfect 👍
-Based on your **actual folder structure** and how your system works (Flask backend + React frontend + Gemini), here is a **FULL, CLEAN, PROFESSIONAL `README.md`** you can directly paste into your repo.
-
-I’ve written it so that:
-
-* ✅ It matches your **current structure**
-* ✅ No assumptions
-* ✅ Easy for anyone to run
-* ✅ Recruiter / reviewer friendly
-* ✅ Honest about API key usage (frontend-provided)
-
----
-
-# 📄 `README.md`
-
-```md
 # AI-Powered Portfolio Evaluation System
 
 An end-to-end AI-based system that evaluates a candidate’s **portfolio website against a Job Description (JD)** using **Google Gemini models**.  
@@ -32,32 +16,6 @@ The system performs **strict recruiter-style analysis**, ATS keyword matching, a
 - 🔑 **Frontend-provided Gemini API key**
 - 🌐 Modern React + Tailwind UI
 - 🔌 Flask REST API backend
-
----
-
-## 🧱 Project Structure
-
-```
-
-AI-powered-portfolio-evaluation-system/
-│
-├── app.py                     # Flask backend (API)
-├── requirements.txt           # Backend dependencies
-├── README.md                  # Project documentation
-│
-└── ai-skill-evaluator/        # Frontend (React + Vite)
-├── public/
-├── src/
-│   ├── components/
-│   ├── services/
-│   ├── Index.tsx
-│   └── main.tsx
-├── package.json
-├── tailwind.config.ts
-├── vite.config.ts
-└── index.html
-
-````
 
 ---
 
@@ -264,6 +222,3 @@ AI & ML Engineer | Portfolio Evaluation System
 
 Give the repo a ⭐ and feel free to contribute!
 
-```
-
----
